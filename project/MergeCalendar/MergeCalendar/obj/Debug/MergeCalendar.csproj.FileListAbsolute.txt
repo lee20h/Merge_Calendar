@@ -1,0 +1,92 @@
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\MergeCalendar.exe.config
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\MergeCalendar.exe
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\MergeCalendar.pdb
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\MaterialDesignColors.dll
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar.csprojAssemblyReference.cache
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\obj\Debug\MainWindow.g.cs
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\obj\Debug\App.g.cs
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar_MarkupCompile.cache
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar_MarkupCompile.lref
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\obj\Debug\App.baml
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\obj\Debug\MainWindow.baml
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar.g.resources
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar.Properties.Resources.resources
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar.csproj.GenerateResource.cache
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar.csproj.CoreCompileInputs.cache
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar.csproj.CopyComplete
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar.exe
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar.pdb
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\obj\Debug\AddSchedule.baml
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\obj\Debug\AddSchedule.g.cs
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Auth.dll
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Calendar.v3.dll
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Core.dll
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.dll
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\Newtonsoft.Json.dll
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.pdb
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.xml
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Auth.pdb
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Auth.xml
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Calendar.v3.pdb
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Calendar.v3.xml
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Core.pdb
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Core.xml
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\bin\Debug\Newtonsoft.Json.xml
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\obj\Debug\ScheduleControl.g.cs
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\obj\Debug\ScheduleControl.baml
+D:\Users\danie\Source\Repos\MergeCal\MergeCalendar\MergeCalendar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\obj\Debug\AddSchedule.baml
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\obj\Debug\AddSchedule.g.cs
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\obj\Debug\ScheduleControl.g.cs
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar_Content.g.cs
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar_MarkupCompile.cache
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar_MarkupCompile.lref
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar.exe
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar.pdb
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\x86\e_sqlite3.dll
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\x64\e_sqlite3.dll
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\MergeCalendar.exe.config
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\MergeCalendar.exe
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\MergeCalendar.pdb
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Auth.dll
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Core.dll
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.dll
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\MaterialDesignColors.dll
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\SQLite-net.dll
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.pdb
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.xml
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Auth.xml
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Core.pdb
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\Google.Apis.Core.xml
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\bin\Debug\SQLite-net.xml
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\obj\Debug\App.baml
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\obj\Debug\ScheduleControl.baml
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar.g.resources
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar.Properties.Resources.resources
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\전공\윈프\윈프 프로젝트\MergeCalendar\MergeCalendar\obj\Debug\MergeCalendar.csproj.CopyComplete

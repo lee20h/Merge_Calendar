@@ -1,0 +1,47 @@
+D:\JBNU\0_Lecture\2019_1\Windows_Prog\Lecture\과제2\BalanceManage_Start\bin\Debug\BalanceManage_Start.exe.config
+D:\JBNU\0_Lecture\2019_1\Windows_Prog\Lecture\과제2\BalanceManage_Start\bin\Debug\BalanceManage_Start.exe
+D:\JBNU\0_Lecture\2019_1\Windows_Prog\Lecture\과제2\BalanceManage_Start\bin\Debug\BalanceManage_Start.pdb
+D:\JBNU\0_Lecture\2019_1\Windows_Prog\Lecture\과제2\BalanceManage_Start\obj\Debug\BalanceManage_Start.csprojAssemblyReference.cache
+D:\JBNU\0_Lecture\2019_1\Windows_Prog\Lecture\과제2\BalanceManage_Start\obj\Debug\MainWindow.g.cs
+D:\JBNU\0_Lecture\2019_1\Windows_Prog\Lecture\과제2\BalanceManage_Start\obj\Debug\App.g.cs
+D:\JBNU\0_Lecture\2019_1\Windows_Prog\Lecture\과제2\BalanceManage_Start\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\JBNU\0_Lecture\2019_1\Windows_Prog\Lecture\과제2\BalanceManage_Start\obj\Debug\BalanceManage_Start_MarkupCompile.cache
+D:\JBNU\0_Lecture\2019_1\Windows_Prog\Lecture\과제2\BalanceManage_Start\obj\Debug\BalanceManage_Start_MarkupCompile.lref
+D:\JBNU\0_Lecture\2019_1\Windows_Prog\Lecture\과제2\BalanceManage_Start\obj\Debug\MainWindow.baml
+D:\JBNU\0_Lecture\2019_1\Windows_Prog\Lecture\과제2\BalanceManage_Start\obj\Debug\BalanceManage_Start.g.resources
+D:\JBNU\0_Lecture\2019_1\Windows_Prog\Lecture\과제2\BalanceManage_Start\obj\Debug\BalanceManage_Start.Properties.Resources.resources
+D:\JBNU\0_Lecture\2019_1\Windows_Prog\Lecture\과제2\BalanceManage_Start\obj\Debug\BalanceManage_Start.csproj.GenerateResource.cache
+D:\JBNU\0_Lecture\2019_1\Windows_Prog\Lecture\과제2\BalanceManage_Start\obj\Debug\BalanceManage_Start.csproj.CoreCompileInputs.cache
+D:\JBNU\0_Lecture\2019_1\Windows_Prog\Lecture\과제2\BalanceManage_Start\obj\Debug\BalanceManage_Start.exe
+D:\JBNU\0_Lecture\2019_1\Windows_Prog\Lecture\과제2\BalanceManage_Start\obj\Debug\BalanceManage_Start.pdb
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\BalanceManage_Start\bin\Debug\BalanceManage_Start.exe.config
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\BalanceManage_Start\bin\Debug\BalanceManage_Start.exe
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\BalanceManage_Start\bin\Debug\BalanceManage_Start.pdb
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\BalanceManage_Start\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\BalanceManage_Start\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\BalanceManage_Start\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\BalanceManage_Start\obj\Debug\BalanceManage_Start_MarkupCompile.cache
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\BalanceManage_Start\obj\Debug\BalanceManage_Start_MarkupCompile.lref
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\BalanceManage_Start\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\BalanceManage_Start\obj\Debug\BalanceManage_Start.g.resources
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\BalanceManage_Start\obj\Debug\BalanceManage_Start.Properties.Resources.resources
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\BalanceManage_Start\obj\Debug\BalanceManage_Start.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\BalanceManage_Start\obj\Debug\BalanceManage_Start.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\BalanceManage_Start\obj\Debug\BalanceManage_Start.exe
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\BalanceManage_Start\obj\Debug\BalanceManage_Start.pdb
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\201610674 이영훈 과제2\bin\Debug\BalanceManage_Start.exe.config
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\201610674 이영훈 과제2\bin\Debug\BalanceManage_Start.exe
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\201610674 이영훈 과제2\bin\Debug\BalanceManage_Start.pdb
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\201610674 이영훈 과제2\obj\Debug\BalanceManage_Start.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\201610674 이영훈 과제2\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\201610674 이영훈 과제2\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\201610674 이영훈 과제2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\201610674 이영훈 과제2\obj\Debug\BalanceManage_Start_MarkupCompile.cache
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\201610674 이영훈 과제2\obj\Debug\BalanceManage_Start_MarkupCompile.lref
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\201610674 이영훈 과제2\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\201610674 이영훈 과제2\obj\Debug\BalanceManage_Start.g.resources
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\201610674 이영훈 과제2\obj\Debug\BalanceManage_Start.Properties.Resources.resources
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\201610674 이영훈 과제2\obj\Debug\BalanceManage_Start.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\201610674 이영훈 과제2\obj\Debug\BalanceManage_Start.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\201610674 이영훈 과제2\obj\Debug\BalanceManage_Start.exe
+C:\Users\USER\Desktop\전공\윈프\과제\과제2\201610674 이영훈 과제2\obj\Debug\BalanceManage_Start.pdb

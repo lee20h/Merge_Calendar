@@ -1,0 +1,63 @@
+c:\users\com\source\repos\WpfApp3\bin\Debug\WpfApp3.exe.config
+c:\users\com\source\repos\WpfApp3\bin\Debug\WpfApp3.exe
+c:\users\com\source\repos\WpfApp3\bin\Debug\WpfApp3.pdb
+c:\users\com\source\repos\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+c:\users\com\source\repos\WpfApp3\obj\Debug\MainWindow.g.cs
+c:\users\com\source\repos\WpfApp3\obj\Debug\App.g.cs
+c:\users\com\source\repos\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+c:\users\com\source\repos\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+c:\users\com\source\repos\WpfApp3\obj\Debug\MainWindow.baml
+c:\users\com\source\repos\WpfApp3\obj\Debug\WpfApp3.g.resources
+c:\users\com\source\repos\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+c:\users\com\source\repos\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+c:\users\com\source\repos\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+c:\users\com\source\repos\WpfApp3\obj\Debug\WpfApp3.exe
+c:\users\com\source\repos\WpfApp3\obj\Debug\WpfApp3.pdb
+E:\201610674\WpfApp3\bin\Debug\WpfApp3.exe.config
+E:\201610674\WpfApp3\bin\Debug\WpfApp3.exe
+E:\201610674\WpfApp3\bin\Debug\WpfApp3.pdb
+E:\201610674\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+E:\201610674\WpfApp3\obj\Debug\MainWindow.g.cs
+E:\201610674\WpfApp3\obj\Debug\App.g.cs
+E:\201610674\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+E:\201610674\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+E:\201610674\WpfApp3\obj\Debug\MainWindow.baml
+E:\201610674\WpfApp3\obj\Debug\WpfApp3.g.resources
+E:\201610674\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+E:\201610674\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+E:\201610674\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+E:\201610674\WpfApp3\obj\Debug\WpfApp3.exe
+E:\201610674\WpfApp3\obj\Debug\WpfApp3.pdb
+E:\201610674\WpfApp3\obj\Debug\App.baml
+C:\Users\USER\Desktop\전공\윈프\계산기 과제용\bin\Debug\WpfApp3.exe.config
+C:\Users\USER\Desktop\전공\윈프\계산기 과제용\bin\Debug\WpfApp3.exe
+C:\Users\USER\Desktop\전공\윈프\계산기 과제용\bin\Debug\WpfApp3.pdb
+C:\Users\USER\Desktop\전공\윈프\계산기 과제용\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\전공\윈프\계산기 과제용\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\전공\윈프\계산기 과제용\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\전공\윈프\계산기 과제용\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\USER\Desktop\전공\윈프\계산기 과제용\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\USER\Desktop\전공\윈프\계산기 과제용\obj\Debug\App.baml
+C:\Users\USER\Desktop\전공\윈프\계산기 과제용\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\전공\윈프\계산기 과제용\obj\Debug\WpfApp3.g.resources
+C:\Users\USER\Desktop\전공\윈프\계산기 과제용\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\USER\Desktop\전공\윈프\계산기 과제용\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\전공\윈프\계산기 과제용\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\전공\윈프\계산기 과제용\obj\Debug\WpfApp3.exe
+C:\Users\USER\Desktop\전공\윈프\계산기 과제용\obj\Debug\WpfApp3.pdb
+C:\Users\USER\Desktop\전공\윈프\과제\계산기 과제용\bin\Debug\WpfApp3.exe.config
+C:\Users\USER\Desktop\전공\윈프\과제\계산기 과제용\bin\Debug\WpfApp3.exe
+C:\Users\USER\Desktop\전공\윈프\과제\계산기 과제용\bin\Debug\WpfApp3.pdb
+C:\Users\USER\Desktop\전공\윈프\과제\계산기 과제용\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\전공\윈프\과제\계산기 과제용\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\전공\윈프\과제\계산기 과제용\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\전공\윈프\과제\계산기 과제용\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\USER\Desktop\전공\윈프\과제\계산기 과제용\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\USER\Desktop\전공\윈프\과제\계산기 과제용\obj\Debug\App.baml
+C:\Users\USER\Desktop\전공\윈프\과제\계산기 과제용\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\전공\윈프\과제\계산기 과제용\obj\Debug\WpfApp3.g.resources
+C:\Users\USER\Desktop\전공\윈프\과제\계산기 과제용\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\USER\Desktop\전공\윈프\과제\계산기 과제용\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\전공\윈프\과제\계산기 과제용\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\전공\윈프\과제\계산기 과제용\obj\Debug\WpfApp3.exe
+C:\Users\USER\Desktop\전공\윈프\과제\계산기 과제용\obj\Debug\WpfApp3.pdb

@@ -1,0 +1,48 @@
+﻿<Window x:Class="ThemeCheck.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ThemeCheck"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="320"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+     TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="{DynamicResource MaterialDesignPaper}"
+     FontFamily="{DynamicResource MaterialDesignFont}">
+
+    <Grid Margin="0,0,0.333,-55.333">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel>
+            <Label Content="시작 날짜/시간 : " Height="40"
+                   VerticalContentAlignment="Center"/>
+            <Label Content="종료 날짜/시간 : " Height="40"
+                       VerticalContentAlignment="Center"/>
+            <Label Content="일정 : " Height="40"
+                VerticalContentAlignment="Center"
+                HorizontalAlignment="Right"/>
+            <Button x:Name="acceptButton"
+                Content="일정 만들기"
+                Margin="0,0,-210.333,0" Height="45"
+                    Click="AcceptButton_Click"/>
+        </StackPanel>
+        <DatePicker DisplayDate="01.01.19" Margin="5.333,0,101.333,183" Grid.Column="1" Height="43"
+                    VerticalContentAlignment="Center"/>
+        <materialDesign:TimePicker SelectedTime="13:00" Margin="107.333,0,0.333,183" Grid.Column="1" Height="43"
+                                   VerticalContentAlignment="Center"/>
+        <DatePicker DisplayDate="01.01.19" Margin="5.333,43,101.333,146" Grid.Column="1" Height="37"
+                    VerticalContentAlignment="Center"/>
+        <materialDesign:TimePicker SelectedTime="13:00" Margin="107.333,43,0.333,146" Grid.Column="1" Height="37"
+                                   VerticalContentAlignment="Center"/>
+        <TextBox x:Name="ScheduleTxtBox" Margin="0,80,-94.667,106"
+                     Grid.Column="1"/>
+    </Grid>
+</Window>

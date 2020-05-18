@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeCalendar", "MergeCalendar\MergeCalendar.csproj", "{0A1C7AC8-AC77-44D0-B3F8-D38491EDC381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaverLogin", "NaverLogin\NaverLogin.csproj", "{B50807F8-4785-4527-BE02-15EB4623DA5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaverLogin_Console", "NaverLogin_Console\NaverLogin_Console.csproj", "{A5013CBE-7B63-452E-83DA-DC410BCA9D33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleCalendar", "GoogleCalendar\GoogleCalendar.csproj", "{62021C2F-902D-4263-9048-41E4AC8367D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamScheduleAPI", "ExamScheduleAPI\ExamScheduleAPI.csproj", "{CCA0C234-AC50-4608-BC23-CED301FD4B04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleOAuth2.0", "GoogleOAuth2.0\GoogleOAuth2.0.csproj", "{00019D71-855E-4A02-B1D0-A09A8E688ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemeCheck", "ThemeCheck\ThemeCheck.csproj", "{3784035B-4698-4644-BE5C-B82724261326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A1C7AC8-AC77-44D0-B3F8-D38491EDC381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1C7AC8-AC77-44D0-B3F8-D38491EDC381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1C7AC8-AC77-44D0-B3F8-D38491EDC381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1C7AC8-AC77-44D0-B3F8-D38491EDC381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B50807F8-4785-4527-BE02-15EB4623DA5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50807F8-4785-4527-BE02-15EB4623DA5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50807F8-4785-4527-BE02-15EB4623DA5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50807F8-4785-4527-BE02-15EB4623DA5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5013CBE-7B63-452E-83DA-DC410BCA9D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5013CBE-7B63-452E-83DA-DC410BCA9D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5013CBE-7B63-452E-83DA-DC410BCA9D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5013CBE-7B63-452E-83DA-DC410BCA9D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62021C2F-902D-4263-9048-41E4AC8367D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62021C2F-902D-4263-9048-41E4AC8367D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62021C2F-902D-4263-9048-41E4AC8367D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62021C2F-902D-4263-9048-41E4AC8367D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA0C234-AC50-4608-BC23-CED301FD4B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA0C234-AC50-4608-BC23-CED301FD4B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA0C234-AC50-4608-BC23-CED301FD4B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA0C234-AC50-4608-BC23-CED301FD4B04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00019D71-855E-4A02-B1D0-A09A8E688ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00019D71-855E-4A02-B1D0-A09A8E688ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00019D71-855E-4A02-B1D0-A09A8E688ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00019D71-855E-4A02-B1D0-A09A8E688ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3784035B-4698-4644-BE5C-B82724261326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3784035B-4698-4644-BE5C-B82724261326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3784035B-4698-4644-BE5C-B82724261326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3784035B-4698-4644-BE5C-B82724261326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83454979-9427-493F-AD8B-6001F24C28E1}
+	EndGlobalSection
+EndGlobal
